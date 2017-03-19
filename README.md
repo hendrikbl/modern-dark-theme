@@ -4,7 +4,7 @@ Modern Dark is a theme/skin for the [Media Monkey Plyer ](http://www.mediamonkey
 
 ### How do I install it?
 
-1. Create a .zip file containing the content of this repository (except this [Readme](README.md) and the [.gitignore](.gitignore) file)
+1. Create a .zip file containing the content of this repository (except this [Readme](README.md) and the [.gitignore](.gitignore) file) or get the latest release from [here](https://github.com/hendrikbl/modern-dark-theme/releases)
 2. Change the file extension from `.zip` to `.msz`
 3. Place the `.msz` in your Skins folder (either `Program Files (x86)\MediaMonkey\Skins` or `%AppData%\MediaMonkey\Skins`)
 4. Run Media Monkey and go to `Tools -> Options`
