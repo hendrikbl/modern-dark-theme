@@ -1,5 +1,7 @@
 # Modern Dark Theme for Media Monkey
 
+![Screenshot_1](/Screenshots/Screenshot_1.png)
+
 Modern Dark is a theme/skin for the [Media Monkey Plyer ](http://www.mediamonkey.com/). It uses dark colors and [Material Design Icons](https://materialdesignicons.com/) to give it a modern look. It is based of the default Metro M skin.
 
 ### How do I install it?
