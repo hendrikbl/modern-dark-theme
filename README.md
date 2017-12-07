@@ -2,7 +2,7 @@
 
 ![Screenshot_1](/Screenshots/Screenshot_1.png)
 
-Modern Dark is a theme/skin for the [Media Monkey Plyer ](http://www.mediamonkey.com/). It uses dark colors and [Material Design Icons](https://materialdesignicons.com/) to give it a modern look. It is based of the default Metro M skin.
+Modern Dark is a theme/skin for the [Media Monkey Player ](http://www.mediamonkey.com/). It uses dark colors and [Material Design Icons](https://materialdesignicons.com/) to give it a modern look. It is based of the default Metro M skin.
 
 ### How do I install it?
 
@@ -11,7 +11,7 @@ Modern Dark is a theme/skin for the [Media Monkey Plyer ](http://www.mediamonkey
 3. Place the `.msz` in your Skins folder (either `Program Files (x86)\MediaMonkey\Skins` or `%AppData%\MediaMonkey\Skins`)
 4. Run Media Monkey and go to `Tools -> Options`
 5. On the left scroll all the way down to Skin, select the Skin from the list and click OK
-6. Sometimes the skin is not fully applied, so you should restart Media Monkay to make shure everything works
+6. Sometimes the skin is not fully applied, so you should restart Media Monkay to make sure everything works
 7. Enjoy the Skin!
 
 ### TODO
